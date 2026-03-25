@@ -2,8 +2,7 @@
 <h3 align="center">A passionate software engineer</h3>
 
 🔭 I’m currently working on:
--  [Wish List Web App](https://github.com/SneakyElfff/Wishlist-web-app);
--  [Eurovision Telegram Bot 2.0](https://github.com/SneakyElfff/EurovisionBot_v_2.0)
+-  [F1 Press Schedule Bot](https://github.com/SneakyElfff/Telegram-Bottas)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
